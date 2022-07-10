@@ -3,4 +3,4 @@ def print_status(status_str):
 
 
 if __name__ == '__main__':
-    print('OK!!!')
+    print_status('OK!!!')
